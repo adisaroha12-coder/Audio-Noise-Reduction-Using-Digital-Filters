@@ -1,5 +1,5 @@
-Audio Reduction Using Digital Filters
-#Aim:
+# Audio Reduction Using Digital Filters
+## Aim:
 To generate a noisy multi-frequency signal and analyze the effect of Low-pass, High-pass, Band-pass, and Band-stop filters using FIR and IIR techniques. The results are evaluated using time-domain, frequency-domain (FFT), and spectrogram analysis.
 # Theory
 Digital Filters
