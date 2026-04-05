@@ -13,9 +13,9 @@ Infinite impulse response
 Faster and computationally efficient
 May become unstable
 ## Types of Filters
- Low-pass filter (LPF): Removes high-frequency components
- High-pass filter (HPF): Removes low-frequency components
- Band-pass filter (BPF): Allows a specific frequency range
+ Low-pass filter (LPF): Removes high-frequency components,
+ High-pass filter (HPF): Removes low-frequency components, 
+ Band-pass filter (BPF): Allows a specific frequency range,
  Band-stop filter (BSF): Removes a specific frequency band
 ## FFT (Fast Fourier Transform)
 Used to convert signals from time domain to frequency domain to identify frequency components.
